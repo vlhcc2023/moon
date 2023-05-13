@@ -1,0 +1,99 @@
+{
+  "title": "MOON",
+  "description": "MOON settings.",
+  "jupyter.lab.menus": {
+    "main": [
+      {
+        "id": "Moon",
+        "label": "Moon",
+        "rank": 80,
+        "items": [
+          {
+            "command": "start",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          {
+            "command": "startControl",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          {
+            "command": "edit_script",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          {
+            "command": "show_number_cells",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          {
+            "command": "update_script",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          {
+            "command": "lock",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          {
+            "command": "unlock",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          { 
+            "type": "separator"
+          },
+          {
+            "command": "run_all",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          {
+            "command": "run_above",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          { 
+            "type": "separator"
+          },
+          {
+            "command": "backtracking",
+            "args": {
+              "origin": "from the menu"
+            }
+          },
+          {
+            "command": "undo",
+            "args": {
+              "origin": "from the menu"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "additionalProperties": false,
+  "type": "object",
+  "jupyter.lab.shortcuts": [
+    {
+      "command": "undo",
+      "args": {
+        "origin": "from the menu"
+      },
+      "keys": ["Ctrl Z"],
+      "selector": ".jp-Notebook:focus"
+    }
+  ]
+}

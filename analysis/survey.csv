@@ -1,0 +1,20 @@
+"hasmoon","colorunderstood","moonorder","moonwayback","moonspeed","moonopinion","moonactions","moonactionmore","moonfree"
+"Oui","Oui","Rarement","Rarement","Non","Indifférent","Rarement",,
+"Oui","Oui","Toujours","Rarement","Oui","Plutôt utile","Rarement","Par exemple, un moment j'ai fais une erreur à un endroit dans une case, la tâche à accomplir a était compter comme bien effectuée. Mais plutard en voulant revenir en arrière, MOON m'a indiqué que sur cette case il y avait une erreur. J'étais surpris.","Quand on utilise MOON pour faire un notebook, cela apporte un certain confort que l'on ne remarque pas. Mais dès que l'on ne l'utilise pas en refaisant le notebook sur lequel on l'avait utilisé. La différence se fait sentir et le notebook paraît bien moins ""claire""."
+"Oui","Oui","Rarement","Souvent","Oui","Indifférent","Rarement","Lorsque le résultat d'une cellule ""test"" affiche une erreur de code faite trois cases plus haut, nous modifions celle-ci afin de la corriger. Nous validons la case et nous sommes obligés de revalider les deux cases intermédiaires avant de pouvoir refaire le test, même si celles-ci n'ont pas été modifiées pour autant.",
+"Oui","Oui","Toujours","Souvent","Oui","Très utile","Jamais",,
+"Oui","Oui","Toujours","Toujours","Non","Plutôt utile","Jamais",,
+"Oui","Oui","Souvent","Souvent","Oui","Très utile","Souvent","Je sais que j'ai déjà modifié du code selon les directives de MOON alors que ça me paraissait pas nécessaire.
+Je me suis parfois étonné de voir des chemins proposés qui ne me paraissaient pas intuitifs, en sautant plusieurs cellules par exemple.
+Mais ça ne m'a pas dérangé et le notebook s'est très bien rempli.","C'est assez fastidieux de réexécuter manuellement toutes les cellules vertes quand on a fait une modification sur une fonction très antérieure.
+Mais c'est un mal pour un bien car le temps gagné est sans doute supérieur à celui perdu à chercher dans le notebook."
+"Oui","Oui","Souvent","Souvent","Oui","Plutôt utile","Rarement",,
+"Oui","Oui","Toujours","Toujours","Oui","Très utile","Jamais",,
+"Oui","Oui","Toujours","Souvent","Oui","Plutôt utile","Rarement","Devoir exécuter des cellules ne contenant que du texte et pas de code.","Peut être faire scroll / placer le curseur automatiquement jusqu'à la cellule à modifier, du moins lorsque celle-ci est hors écran / éloigné car parfois il faut deviner que la cellule était au début du notebook alors qu'on vient d'en exécuter une à la fin."
+"Oui","Oui","Souvent","Rarement","Oui","Très utile","Jamais",,
+"Oui","Oui","Rarement","Rarement","Non","Indifférent","Jamais",,
+"Oui","Oui","Toujours","Souvent","Oui","Plutôt utile","Rarement",,
+"Oui","Partiellement","Rarement","Souvent","Non","Indifférent","Souvent",,
+"Oui","Oui","Souvent","Rarement","Non","Plutôt utile","Jamais",,
+"Oui","Oui","Souvent","Rarement","Oui","Plutôt utile","Jamais",,
+"Oui","Oui","Toujours","Souvent","Oui","Plutôt utile","Jamais",,

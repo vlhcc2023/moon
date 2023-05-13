@@ -1,0 +1,12 @@
+EXP :=  IO | AO | OP | cell = CELL
+          
+IO := '\(' _ content = SEQ '\)'
+AO := '\[' _ content = SEQ '\]'
+OP := '\?' _ content = EXP | content = EXP _ '!'
+
+SEQ := left = EXP _ right = SEQ | content = EXP _
+
+// _ := '(\s|,)*'
+_ := '\s*'
+
+CELL := 'C[\d]+(\s*T[\d]+)*'
